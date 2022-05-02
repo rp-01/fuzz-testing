@@ -1,3 +1,3 @@
 # fuzz-testing
-School Project
-fuzz testing jpg2bmp application
+- CAP 6135
+- fuzz testing jpg2bmp application
